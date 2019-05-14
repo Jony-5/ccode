@@ -28,7 +28,7 @@ int main(){
   //print array memory locations
   cout<<"\nprint &interfers[] memory address "<<"\n\n";
   for (int n = 0; n < 10; n++){
-  cout << &integers[n]<<"\n";
+  cout << integers[n]<<"\n";
   cout<<endl;
 }
   return 0;
