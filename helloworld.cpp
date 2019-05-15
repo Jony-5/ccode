@@ -6,4 +6,7 @@ int main() {
   cout<<"ABCDEFGHIJKLMNOPQRSTUVWXYZ"<<endl;
   cout<<"StevePi"<<endl;
   cout<<"ZULU"<<endl;
+  for (int i ; i < 256 ; i++)cout<<(char)i;
+  cout<<(char)7;
+  return 0;
 }
